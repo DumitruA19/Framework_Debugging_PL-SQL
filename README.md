@@ -77,8 +77,7 @@ END;
 
 ## 🧑‍💻 Author
 
-Developed by: **@dumitru-andrei.iroftei**  
-Organization: **Endava**
+Developed by: **dumitru-andrei.iroftei**  
 
 ---
 
